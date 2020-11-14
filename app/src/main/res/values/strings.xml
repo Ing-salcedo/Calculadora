@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="titulo">CALCULADORA</string>
+    <string name="numero_uno">Número dos</string>
+    <string name="numero_dos">Número dos</string>
+    <string name="btCalcular">SUMAR</string>
+    <string name="mensaje_error_numero_uno">Digite el número uno</string>
+    <string name="mensaje_error_numero_dos">Digite el número dos</string>
+    <string name="btnlimpiar">LIMPIAR</string>
 </resources>

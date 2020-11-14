@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="titulo">CALCULATOR</string>
+    <string name="numero_uno">Number One</string>
+    <string name="numero_dos">Number Two</string>
+    <string name="btCalcular">SUM</string>
+    <string name="mensaje_error_numero_uno">Type Number One</string>
+    <string name="mensaje_error_numero_dos">Type Number Two</string>
+    <string name="btnlimpiar">CLEAN</string>
+</resources>
